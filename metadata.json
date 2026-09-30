@@ -1,0 +1,8 @@
+{
+  "name": "FinWise AI – Personal Finance Advisor",
+  "description": "Intelligent personal finance advisor that analyzes income, expenses, and financial goals with Gemini AI to generate personalized budget plans, saving recommendations, and cash-flow insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
