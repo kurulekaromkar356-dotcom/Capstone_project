@@ -8,6 +8,10 @@ FinWise AI is a modern, production-grade personal finance assistant that analyze
 4. **Interactive "What-If?" Scenario Simulator**
 5. **"Ask FinWise AI" Interactive Financial Advisor Chat**
 
+Demo Link : https://finwise-aifinanceadvisor.ai.studio/
+
+Full Document : https://1drv.ms/w/c/9017D881DE9DA77E/IQBZL5g2Rx88TYyl_6IHKRTJASUSAHED2FlcETTT1Sr53O0?e=fyZnnm
+
 ---
 
 ## Architecture Overview
